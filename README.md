@@ -2,7 +2,7 @@
 
 Senior Software Engineer with 8 years building high-performance, real-time, and defense-grade **C++** systems — currently transitioning into **Application Security / DevSecOps**.
 
-- Certified: **GitHub Advanced Security (GH-500)** · **Azure Security Engineer Associate (AZ-500)** · Azure Fundamentals (AZ-900) **SC-300 (Identity and Access Administrator)** — exam scheduled October 2026
+- Certified: **GitHub Advanced Security (GH-500)** · **Azure Security Engineer Associate (AZ-500)** · Azure Fundamentals (AZ-900) **SC-300 (Identity and Access Administrator)** 
 - Background: real-time systems, MISRA C/C++ secure coding, SDLC static/dynamic scanning, defense-grade high-assurance software
 - Currently building: a CodeQL-based vulnerability-hunting project for C/C++ — combining 8 years of systems-level C++ with GitHub Advanced Security tooling
 - Learning: application security, cloud security, and how to break (and fix) the kind of code I used to only build
